@@ -14,15 +14,15 @@ double k = 0, result = 0;
 int menu()
 {
     int ch;
-    printf("\n01.   Addition");
-    printf("\n02.   Subtraction");
-    printf("\n03.   Multiplication");
-    printf("\n04.   Division");
-    printf("\n05.   Remainder");
-    printf("\n06.   Factorial");
-    printf("\n07.   Sine");
-    printf("\n08.   Cosine");
-    printf("\n09.   Tangent");
+    printf("\n1.    Addition");
+    printf("\n2.    Subtraction");
+    printf("\n3.    Multiplication");
+    printf("\n4.    Division");
+    printf("\n5.    Remainder");
+    printf("\n6.    Factorial");
+    printf("\n7.    Sine");
+    printf("\n8.    Cosine");
+    printf("\n9.    Tangent");
     printf("\n10.   log(base e)");
     printf("\n11.   log(base 10)");
     printf("\n12.   e^x");
